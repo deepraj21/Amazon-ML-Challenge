@@ -1,0 +1,73 @@
+index,prediction
+0,"Extract the height from the following text:
+
+= 7 O| i
+
+ a black and white photo of a snow covered area 
+
+
+To the left of the picture, see the following text:
+
+= 4 O| i
+
+
+A black and white photo of a snow covered area 
+
+
+To the left of the picture, see the following text:
+
+="
+1,"Extract the width from the following text:
+
+Size Width Length
+One Size 42cm/16.54"" 200cmi78.74""
+ a collage of photos of a person with a camera 
+
+
+An image of a person who is dressed in a traditional dress and who has a natural look.
+
+Another image of a person who is dressed in a traditional dress and who has a natural look
+
+The above pictures are taken in one of"
+2,"Extract the height from the following text:
+
+Size Width Length
+One Size 42cm/16.54"" 200cmi78.74""
+ a collage of photos of a person with a camera 
+
+
+If you have any questions about the collage or how to use it, please contact us so that we can take care of it."
+3,"Extract the depth from the following text:
+
+Size Width Length
+One Size 42cm/16.54"" 200cmi78.74""
+ a collage of photos of a person with a camera 
+
+
+When looking at the image, the camera lens is facing right at the center of the image and the image is facing left. With this image, you can see that there is a hole in the middle and the lens is facing left.
+
+
+"
+4,"Extract the depth from the following text:
+
+Size Width Length
+One Size 10.50emi/4.13"" 90cm/35.43""
+ a collage of photos of people standing in front of a wall 
+
+
+The top of the page says:
+
+- This is a photo of a man in a wheelchair
+
+- This was taken in a wheelchair and is not a picture in a book, but is a photo of a man in a wheelchair
+"
+5,"Extract the height from the following text:
+
+Size Width Length
+One Size 10.50emi/4.13"" 90cm/35.43""
+ a collage of photos of people standing in front of a wall 
+
+
+http://www.nuuvem.com/item/10.50emi/4.13""
+
+This is not the same as the other photos that I took. It's a different type of photo. The caption is the"

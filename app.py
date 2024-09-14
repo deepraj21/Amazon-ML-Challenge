@@ -55,12 +55,12 @@ def image_captioning(image):
     return caption
 
 # Initialize GPT-2 tokenizer and model
-tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-2.7B")
+tokenizer = AutoTokenizer.from_pretrained("gpt2")
 
 # GPT-2 doesn't have a pad_token by default, so we add one
 tokenizer.pad_token = tokenizer.eos_token  # Use the eos_token as the pad_token
 
-model = AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-neo-2.7B")
+model = AutoModelForCausalLM.from_pretrained("gpt2")
 
 # Text generation function
 def generate_entity_extraction(text, entity_name):
